@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.d49b391d.css",
-    "main.js": "/static/js/main.ae44356d.js",
-    "static/media/me.jpg": "/static/media/me.9c237a9a6ea5f72a2f16.jpg",
-    "static/media/pulikkali.jpeg": "/static/media/pulikkali.0e9e0b2d3b149e88395c.jpeg",
-    "static/media/thiruvathira.jpeg": "/static/media/thiruvathira.a12d9649f3617afe4c1c.jpeg",
-    "static/media/pic.jpg": "/static/media/pic.f7f303faad12bc6fe6e0.jpg",
-    "static/media/pookalam.webp": "/static/media/pookalam.7d7d19f758d28e293e94.webp",
-    "static/media/sadhya.jpeg": "/static/media/sadhya.28d7c664696a69818aeb.jpeg",
-    "static/media/payasam.jpeg": "/static/media/payasam.918dc7021f38af400501.jpeg",
-    "static/media/olakkuda.webp": "/static/media/olakkuda.02e771958c4b6ccb139c.webp",
-    "index.html": "/index.html",
-    "main.d49b391d.css.map": "/static/css/main.d49b391d.css.map",
-    "main.ae44356d.js.map": "/static/js/main.ae44356d.js.map"
+    "main.css": "/cv-suhail/Mavelikkoru_Portfolio/static/css/main.d49b391d.css",
+    "main.js": "/cv-suhail/Mavelikkoru_Portfolio/static/js/main.94f95a5f.js",
+    "static/media/me.jpg": "/cv-suhail/Mavelikkoru_Portfolio/static/media/me.9c237a9a6ea5f72a2f16.jpg",
+    "static/media/pulikkali.jpeg": "/cv-suhail/Mavelikkoru_Portfolio/static/media/pulikkali.0e9e0b2d3b149e88395c.jpeg",
+    "static/media/thiruvathira.jpeg": "/cv-suhail/Mavelikkoru_Portfolio/static/media/thiruvathira.a12d9649f3617afe4c1c.jpeg",
+    "static/media/pic.jpg": "/cv-suhail/Mavelikkoru_Portfolio/static/media/pic.f7f303faad12bc6fe6e0.jpg",
+    "static/media/pookalam.webp": "/cv-suhail/Mavelikkoru_Portfolio/static/media/pookalam.7d7d19f758d28e293e94.webp",
+    "static/media/sadhya.jpeg": "/cv-suhail/Mavelikkoru_Portfolio/static/media/sadhya.28d7c664696a69818aeb.jpeg",
+    "static/media/payasam.jpeg": "/cv-suhail/Mavelikkoru_Portfolio/static/media/payasam.918dc7021f38af400501.jpeg",
+    "static/media/olakkuda.webp": "/cv-suhail/Mavelikkoru_Portfolio/static/media/olakkuda.02e771958c4b6ccb139c.webp",
+    "index.html": "/cv-suhail/Mavelikkoru_Portfolio/index.html",
+    "main.d49b391d.css.map": "/cv-suhail/Mavelikkoru_Portfolio/static/css/main.d49b391d.css.map",
+    "main.94f95a5f.js.map": "/cv-suhail/Mavelikkoru_Portfolio/static/js/main.94f95a5f.js.map"
   },
   "entrypoints": [
     "static/css/main.d49b391d.css",
-    "static/js/main.ae44356d.js"
+    "static/js/main.94f95a5f.js"
   ]
 }
