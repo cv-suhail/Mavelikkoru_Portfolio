@@ -1,7 +1,5 @@
-# Personal-Portfolio
-> This is personal portfolio website.
-
-![Portfolio](https://raw.github.com/Meri-MG/portfolio---react/master/src/assets/port.png)
+# Mavelikkoru-Portfolio
+> This is portfolio website of maveli.
 
 ## Built With
 
@@ -9,14 +7,9 @@
 - CSS
 - VS code
 
-## Live Demo
-
-- [Live Demo](https://meri-mg-portfolio.netlify.app/)
-
 
 # Getting Started
 ## Prerequisites:
-
 
 - Create an account on github
 
@@ -28,36 +21,32 @@
 
 - Choose a folder in your local machine where you want this repository to be copied
 
-- Clone this [repository](https://github.com/Meri-MG/portfolio---react) to your local machine 
+- Clone this [repository](https://github.com/cv-suhail/Mavelikkoru_Portfolio.git) to your local machine 
 - ```
-  git clone git@github.com:Meri-MG/portfolio---react.git
+  git clone https://github.com/cv-suhail/Mavelikkoru_Portfolio.git
   ```
 
-- Navigate to `cd portfolio---react`  directory.
+- Navigate to `cd Mavelikkoru_Portfolio`  directory.
 
 - To install all the app dependencies on the command line run
 - ```
-  npm install
+  yarn
   ``` 
 - To run app in the development mode run 
 - ```
-  npm start
+  yarn start
   ```
 
 
 ## Author
 
-:woman: **Meri Gogichashvili**
+:man: **CvSuhail**
 
-- [GitHub](https://github.com/Meri-MG)
-- [LinkedIn](https://www.linkedin.com/in/meri-gogichashvili/)
+- [GitHub](https://github.com/cv-suhail)
 
 ## 🤝 Contributing
 - Contributions, issues, and feature requests are welcome!
-- Feel free to check the [issues page](https://github.com/Meri-MG/portfolio---react/issues).
+- Feel free to check the [issues page](https://github.com/cv-suhail/Mavelikkoru_Portfolio/issues).
 
 # Show your support
 Give a ⭐ if you like this project!
-
-# Acknowledgments
-Thanks to [EGATOR](https://www.youtube.com/watch?v=G-Cr00UYokU&list=WL&index=55&t=1845s) tutorial!
